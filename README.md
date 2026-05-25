@@ -94,7 +94,7 @@
      
 ### **📁 증빙 자료:**
   * [3차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [3차과제_실행결과.jpg]
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-dcjdrea1-ai/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-05-26%20023426.png
 <br>
 
 ### 🟥 [4차 과제: V4.0] 모듈화 및 데이터 확장 (배열과 함수) - 🌟최종 완성 -- 향후 작성 예정
