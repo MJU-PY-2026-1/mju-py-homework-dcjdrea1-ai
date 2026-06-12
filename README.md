@@ -123,5 +123,5 @@ total_sales_revenue += recipe[5]
      recipe = recipes.pop(index - 1)
 ### **📁 증빙 자료:**
   * file:///C:/Users/%EC%9D%B4%EC%9C%A4%EC%9E%AC/Downloads/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-06-13%20010238.pdf (첨부 후 링크)
-  *
+  *https://github.com/MJU-PY-2026-1/mju-py-homework-dcjdrea1-ai/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-06-13%20012418.png
 <br>
