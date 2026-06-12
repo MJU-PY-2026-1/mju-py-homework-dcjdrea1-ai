@@ -122,6 +122,6 @@ total_sales_revenue += recipe[5]
      * **해결:** ..판매 후 리스트에서 제거하면 해결된다.
      recipe = recipes.pop(index - 1)
 ### **📁 증빙 자료:**
-  * [4차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [4차과제_실행결과.jpg]
+  * file:///C:/Users/%EC%9D%B4%EC%9C%A4%EC%9E%AC/Downloads/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-06-13%20010238.pdf (첨부 후 링크)
+  *
 <br>
